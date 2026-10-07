@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-09-27T04:50:45Z",
+  "updatedAt": "2026-10-07T18:49:57Z",
   "source": "https://tiendadeareadepicnic.mitiendanube.com/productos",
   "store": "tiendadeareadepicnic.mitiendanube.com",
-  "count": 11,
+  "count": 12,
   "products": [
+    {
+      "slug": "kit-tero-viajero",
+      "name": "Tero Viajero",
+      "price": 90000,
+      "currency": "ARS",
+      "stock": null,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/whatsapp-image-2026-10-07-at-13-26-13-4535450ca898db461b17913907053691-480-0.webp",
+      "description": "Tres aventuras de Tero por Argentina: Litoral, Puerto Madryn y Jujuy. Libros infantiles con historias, viajes, QRs y contenidos especiales.",
+      "weight": null,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/kit-tero-viajero/"
+    },
     {
       "slug": "el-pais-en-tero-aventura-en-jujuy",
       "name": "El País en Tero – Aventura en Jujuy",
@@ -15,66 +27,6 @@
       "description": "El País en Tero – Aventura en Jujuy  En esta nueva aventura, Tero viaja por Jujuy y descubre sus cerros, sus llamas, las papas andinas, los telares, las cele...",
       "weight": 0.35,
       "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-pais-en-tero-aventura-en-jujuy/"
-    },
-    {
-      "slug": "el-pais-en-tero-aventura-en-el-litoral-2da-edicion",
-      "name": "El país en Tero - Aventura en el Litoral (2da edición)",
-      "price": 30000,
-      "currency": "ARS",
-      "stock": 197,
-      "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8841-1-3834b51e7932c19fd117774701368005-480-0.webp",
-      "description": "Un libro para descubrir el Litoral argentino y visitar uno de los humedales más grandes de Sudamérica en familia. Tero recorre los Esteros del Iberá y las Ca...",
-      "weight": 0.3,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-pais-en-tero-aventura-en-el-litoral-2da-edicion/"
-    },
-    {
-      "slug": "atrapaviajes",
-      "name": "Atrapaviajes",
-      "price": 28000,
-      "currency": "ARS",
-      "stock": 296,
-      "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8661-1-1ae1f90e2d0ec7135317781860824281-480-0.webp",
-      "description": "Un libro interactivo para chicos y familias viajeras. Atrapaviajes combina juegos, actividades, recuerdos y creatividad para transformar cada viaje en una experiencia inolvidable.",
-      "weight": 0.5,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/atrapaviajes/"
-    },
-    {
-      "slug": "el-pais-en-tero-aventura-en-puerto-madryn",
-      "name": "El país en Tero - Aventura en Puerto Madryn",
-      "price": 30000,
-      "currency": "ARS",
-      "stock": 98,
-      "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_2689-82cd64b37d70e0045017774663536542-480-0.webp",
-      "description": "Un libro para descubrir la Patagonia y el mar argentino en familia, combinando relato, ilustración y fotografías reales. Tero, un ave curiosa y aventurera, s...",
-      "weight": 0.3,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-pais-en-tero-aventura-en-puerto-madryn/"
-    },
-    {
-      "slug": "el-barrio-en-tero",
-      "name": "El barrio en Tero",
-      "price": 14000,
-      "currency": "ARS",
-      "stock": 599,
-      "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8827-2-46c13fbfcf27d21e4b17774834181399-480-0.webp",
-      "description": "Una novela corta y emotiva protagonizada por Teros y Caranchos, enfrentados en un partido de fútbol épico para dividirse el territorio en su barrio.  Ambos b...",
-      "weight": 0.1,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-barrio-en-tero/"
-    },
-    {
-      "slug": "huevo-tito-en-el-bodegon-hyd7i",
-      "name": "Huevo Tito en el bodegón",
-      "price": 20000,
-      "currency": "ARS",
-      "stock": 1499,
-      "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/huevo-tito-frente-3fb1fbbed131cadfcf17816511169295-480-0.webp",
-      "description": "En una aventura gastronómica para la primera infancia, Huevo Tito sale a buscar amigos en la cocina del bodegón, sigue por las mesas y hasta se tira de cabez...",
-      "weight": 0.18,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/huevo-tito-en-el-bodegon-hyd7i/"
     },
     {
       "slug": "hay-equipo-a-cocinar",
@@ -89,28 +41,64 @@
       "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/hay-equipo-a-cocinar/"
     },
     {
-      "slug": "no-te-olvides-antonia",
-      "name": "¡No te olvides Antonia!",
-      "price": 27000,
+      "slug": "el-pais-en-tero-aventura-en-puerto-madryn",
+      "name": "El país en Tero - Aventura en Puerto Madryn",
+      "price": 30000,
       "currency": "ARS",
-      "stock": 199,
+      "stock": 98,
       "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/no-te-olvides-1-46544d60c6b7bfbd1917781720555559-480-0.webp",
-      "description": "Un cuento ilustrado para acompañar emociones, memoria y vínculos familiares. Ideal para niños de 3 a 7 años.",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_2689-82cd64b37d70e0045017774663536542-480-0.webp",
+      "description": "Un libro para descubrir la Patagonia y el mar argentino en familia, combinando relato, ilustración y fotografías reales. Tero, un ave curiosa y aventurera, s...",
       "weight": 0.3,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/no-te-olvides-antonia/"
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-pais-en-tero-aventura-en-puerto-madryn/"
     },
     {
-      "slug": "antonia-y-el-luno",
-      "name": "Antonia y el Luno",
-      "price": 27000,
+      "slug": "el-pais-en-tero-aventura-en-el-litoral-2da-edicion",
+      "name": "El país en Tero - Aventura en el Litoral (2da edición)",
+      "price": 30000,
       "currency": "ARS",
-      "stock": 399,
+      "stock": 197,
       "availability": "InStock",
-      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_4504tn-jpg-189456870da9ce2d5417779062069321-480-0.webp",
-      "description": "Un cuento para primeros lectores que invita a hacerse preguntas mientras observamos el cielo y a sus protagonistas, apareciendo y ocultándose: el sol y la lu...",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8841-1-3834b51e7932c19fd117774701368005-480-0.webp",
+      "description": "Un libro para descubrir el Litoral argentino y visitar uno de los humedales más grandes de Sudamérica en familia. Tero recorre los Esteros del Iberá y las Ca...",
       "weight": 0.3,
-      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/antonia-y-el-luno/"
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-pais-en-tero-aventura-en-el-litoral-2da-edicion/"
+    },
+    {
+      "slug": "el-barrio-en-tero",
+      "name": "El barrio en Tero",
+      "price": 14500,
+      "currency": "ARS",
+      "stock": 599,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8827-2-46c13fbfcf27d21e4b17774834181399-480-0.webp",
+      "description": "Una novela corta y emotiva protagonizada por Teros y Caranchos, enfrentados en un partido de fútbol épico para dividirse el territorio en su barrio.  Ambos b...",
+      "weight": 0.1,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/el-barrio-en-tero/"
+    },
+    {
+      "slug": "atrapaviajes",
+      "name": "Atrapaviajes",
+      "price": 28000,
+      "currency": "ARS",
+      "stock": 296,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_8661-1-1ae1f90e2d0ec7135317781860824281-480-0.webp",
+      "description": "Un libro interactivo para chicos y familias viajeras. Atrapaviajes combina juegos, actividades, recuerdos y creatividad para transformar cada viaje en una experiencia inolvidable.",
+      "weight": 0.5,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/atrapaviajes/"
+    },
+    {
+      "slug": "huevo-tito-en-el-bodegon-hyd7i",
+      "name": "Huevo Tito en el bodegón",
+      "price": 20000,
+      "currency": "ARS",
+      "stock": 1499,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/huevo-tito-frente-3fb1fbbed131cadfcf17816511169295-480-0.webp",
+      "description": "En una aventura gastronómica para la primera infancia, Huevo Tito sale a buscar amigos en la cocina del bodegón, sigue por las mesas y hasta se tira de cabez...",
+      "weight": 0.18,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/huevo-tito-en-el-bodegon-hyd7i/"
     },
     {
       "slug": "la-biblia-y-el-bodegon-1k058",
@@ -125,9 +113,33 @@
       "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/la-biblia-y-el-bodegon-1k058/"
     },
     {
+      "slug": "antonia-y-el-luno",
+      "name": "Antonia y el Luno",
+      "price": 28000,
+      "currency": "ARS",
+      "stock": 399,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/img_4504tn-jpg-189456870da9ce2d5417779062069321-480-0.webp",
+      "description": "Un cuento para primeros lectores que invita a hacerse preguntas mientras observamos el cielo y a sus protagonistas, apareciendo y ocultándose: el sol y la lu...",
+      "weight": 0.3,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/antonia-y-el-luno/"
+    },
+    {
+      "slug": "no-te-olvides-antonia",
+      "name": "¡No te olvides Antonia!",
+      "price": 28000,
+      "currency": "ARS",
+      "stock": 199,
+      "availability": "InStock",
+      "image": "https://acdn-us.mitiendanube.com/stores/007/631/689/products/no-te-olvides-1-46544d60c6b7bfbd1917781720555559-480-0.webp",
+      "description": "Un cuento ilustrado para acompañar emociones, memoria y vínculos familiares. Ideal para niños de 3 a 7 años.",
+      "weight": 0.3,
+      "url": "https://tiendadeareadepicnic.mitiendanube.com/productos/no-te-olvides-antonia/"
+    },
+    {
       "slug": "la-semana-de-antonia",
       "name": "La semana de Antonia",
-      "price": 27000,
+      "price": 28000,
       "currency": "ARS",
       "stock": 30,
       "availability": "InStock",
